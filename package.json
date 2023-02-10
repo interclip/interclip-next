@@ -46,7 +46,7 @@
     "next-themes": "^0.2.0",
     "nextjs-progressbar": "^0.0.16",
     "node-fetch": "2.6.7",
-    "octokit": "^1.8.0",
+    "octokit": "^2.0.14",
     "random-youtube-music-video": "^1.0.6",
     "react": "18.2.0",
     "react-dom": "18.1.0",
