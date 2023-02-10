@@ -38,7 +38,7 @@
     "js-cookie": "^3.0.1",
     "link-preview-js": "^2.1.15",
     "lru-cache": "^7.14.1",
-    "nanoid": "^4.0.0",
+    "nanoid": "^4.0.1",
     "next": "^12.3.1",
     "next-auth": "^4.14.0",
     "next-pwa": "^5.5.5",
