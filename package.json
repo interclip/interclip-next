@@ -58,7 +58,7 @@
     "react-tooltip": "^4.2.21",
     "sharp": "^0.30.6",
     "simple-xml-to-json": "^1.0.9",
-    "ts-node": "^10.8.1",
+    "ts-node": "^10.9.1",
     "validator": "^13.7.0",
     "web3": "^1.7.3",
     "web3.storage": "4.2.0",
