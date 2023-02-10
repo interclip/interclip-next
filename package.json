@@ -59,7 +59,7 @@
     "sharp": "^0.30.6",
     "simple-xml-to-json": "^1.0.9",
     "ts-node": "^10.8.1",
-    "validator": "^13.7.0",
+    "validator": "^13.9.0",
     "web3": "^1.7.3",
     "web3.storage": "4.2.0",
     "webtorrent": "^1.8.32"
@@ -74,7 +74,7 @@
     "@types/lru-cache": "^7.10.10",
     "@types/node-fetch": "^3.0.3",
     "@types/react": "18.0.21",
-    "@types/validator": "^13.7.3",
+    "@types/validator": "^13.7.12",
     "@types/webtorrent": "^0.109.3",
     "@typescript-eslint/eslint-plugin": "^5.28.0",
     "autoprefixer": "^10.4.8",
