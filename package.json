@@ -18,7 +18,7 @@
     "pretty": "prettier --write ."
   },
   "dependencies": {
-    "@davatar/react": "^1.10.3",
+    "@davatar/react": "^1.11.1",
     "@headlessui/react": "^1.6.4",
     "@heroicons/react": "^1.0.6",
     "@next-auth/prisma-adapter": "^1.0.3",
