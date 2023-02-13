@@ -73,7 +73,7 @@
     "@types/js-cookie": "^3.0.2",
     "@types/lru-cache": "^7.10.10",
     "@types/node-fetch": "^3.0.3",
-    "@types/react": "18.0.21",
+    "@types/react": "18.0.28",
     "@types/validator": "^13.7.3",
     "@types/webtorrent": "^0.109.3",
     "@typescript-eslint/eslint-plugin": "^5.28.0",
