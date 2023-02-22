@@ -62,7 +62,7 @@
     "validator": "^13.7.0",
     "web3": "^1.7.3",
     "web3.storage": "4.2.0",
-    "webtorrent": "^1.8.32"
+    "webtorrent": "^2.0.14"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
