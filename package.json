@@ -23,7 +23,7 @@
     "@heroicons/react": "^1.0.6",
     "@next-auth/prisma-adapter": "^1.0.3",
     "@nextui-org/react": "^1.0.2-beta.5",
-    "@prisma/client": "^4.5.0",
+    "@prisma/client": "^4.9.0",
     "@types/react-infinite-scroller": "^1.2.3",
     "aws-sdk": "^2.1246.0",
     "clsx": "^1.1.1",
