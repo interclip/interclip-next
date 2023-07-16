@@ -2084,10 +2084,10 @@
     multiformats "^9.4.1"
     murmurhash3js-revisited "^3.0.0"
 
-"@next-auth/prisma-adapter@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@next-auth/prisma-adapter/-/prisma-adapter-1.0.3.tgz#cd6b866a3e281370ce64aa67daf320322a42a2b9"
-  integrity sha512-3Lq1cD3ytKM3EGKJZ4UZvlqshLtlPvYxLeCrUV9ifYwYlq51kmDaHjsIawlp8EbH5pE1UhlsvtlXMery7RghtA==
+"@next-auth/prisma-adapter@^1.0.5":
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@next-auth/prisma-adapter/-/prisma-adapter-1.0.5.tgz#41a2fc7b44907054b81d456b426164e58becf4ed"
+  integrity sha512-VqMS11IxPXrPGXw6Oul6jcyS/n8GLOWzRMrPr3EMdtD6eOalM6zz05j08PcNiis8QzkfuYnCv49OvufTuaEwYQ==
 
 "@next/env@12.3.1":
   version "12.3.1"
