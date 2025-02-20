@@ -46,7 +46,7 @@
     "next-themes": "^0.2.0",
     "nextjs-progressbar": "^0.0.16",
     "node-fetch": "2.6.7",
-    "octokit": "^1.8.0",
+    "octokit": "^4.1.2",
     "random-youtube-music-video": "^1.0.6",
     "react": "18.2.0",
     "react-dom": "18.1.0",
@@ -60,7 +60,7 @@
     "simple-xml-to-json": "^1.0.9",
     "ts-node": "^10.8.1",
     "validator": "^13.7.0",
-    "web3": "^1.7.3",
+    "web3": "^4.0.1",
     "web3.storage": "4.2.0",
     "webtorrent": "^1.8.32"
   },
